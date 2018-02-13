@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="OverlayProgress">
+        <attr name="indeterminateTint" format="color" />
+        <attr name="indeterminateBackground" format="reference" />
+        <attr name="indeterminatePadding" format="dimension" />
+        <attr name="indeterminateWidth" format="dimension" />
+        <attr name="indeterminateHeight" format="dimension" />
+        <attr name="overlayBackgroundColor" format="color" />
+    </declare-styleable>
+</resources>

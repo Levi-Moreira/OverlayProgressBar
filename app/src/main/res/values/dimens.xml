@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_indeterminate_size">100dp</dimen>
+    <dimen name="default_indeterminate_padding">20dp</dimen>
+</resources>
